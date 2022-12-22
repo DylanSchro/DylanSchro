@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DylanSchro
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning Python
